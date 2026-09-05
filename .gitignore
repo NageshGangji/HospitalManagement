@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+target/
+build/
+dist/
+*.class
+*.jar
+
+# Archives & Temp
+*.zip
+Temp/
+frontend/Temp/
+
+# IDEs & System
+.vscode/
+.idea/
+*.iml
+.DS_Store
